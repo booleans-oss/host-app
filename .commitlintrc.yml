@@ -2,5 +2,5 @@ extends:
   - '@commitlint/config-conventional'
 
 rules:
-  scope-enum: [2, 'always', ['deps', 'client', 'server', 'workspace', 'workflows']]
+  scope-enum: [2, 'always', ['deps']]
   header-max-length: [1, 'always', 72]
