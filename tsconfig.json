@@ -11,9 +11,9 @@
       "experimentalDecorators": true,
       "resolveJsonModule": true,
       "esModuleInterop": true,
-      "target": "ES2017",
+      "target": "ES2018",
       "sourceMap": true,
-      "outDir": "./dist",
+      "outDir": "./build",
       "baseUrl": "./src",
       "incremental": true,
       "strictNullChecks": true

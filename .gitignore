@@ -81,3 +81,9 @@ db-data
 # Vuepress
 .temp
 .cache
+
+# Build
+build/
+
+# App Test Config
+.hostconfig
